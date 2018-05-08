@@ -84,6 +84,7 @@ public class Login_ScreenActivity extends Activity implements View.OnClickListen
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login__screen);
+        //Sunil  chanes in oncreate
         pDialogRegisterLogin = new ProgressDialog(Login_ScreenActivity.this);
         initializeViews();
         if (version >= 23) {
