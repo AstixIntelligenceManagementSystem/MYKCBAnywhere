@@ -581,7 +581,7 @@ public class Login_ScreenActivity extends Activity implements View.OnClickListen
         pDialogRegisterLogin.show();
 
         // Make RESTful webservice call using AsyncHttpClient object
-
+        //sunil
         AsyncHttpClient client = new AsyncHttpClient();
         StringEntity entity=null;
         try {
@@ -674,7 +674,7 @@ public class Login_ScreenActivity extends Activity implements View.OnClickListen
                 // When Http response code other than 404, 500
 
                 else{
-
+//nitish dubey
                     Toast.makeText(getApplicationContext(), "Unexpected Error occcured! [Most common Error: Device might not be connected to Internet or remote server is not up and running]", Toast.LENGTH_LONG).show();
 
                 }
