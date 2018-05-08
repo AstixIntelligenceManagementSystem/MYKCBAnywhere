@@ -94,6 +94,7 @@ public class Login_ScreenActivity extends Activity implements View.OnClickListen
     }
 
     private void initializeViews() {
+        //Nitish Dubey Done Changes
         ll_login_register= (LinearLayout) findViewById(R.id.ll_login_register);
         btn_login_register= (Button) findViewById(R.id.btn_login_register);
         btn_login= (Button) findViewById(R.id.btn_login);
