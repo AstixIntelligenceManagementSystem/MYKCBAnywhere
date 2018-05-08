@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MYKCB Anywhere</string>
+
+    <!-- registrationpage-->
+    <string name="userid">User_Id</string>
+    <string name="user_name">User_Name</string>
+    <string name="user_type">User_Type</string>
+    <string name="account">Account number</string>
+    <string name="password">Password</string>
+    <string name="mobile">Mobile Number</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+
+
+    <string name="sbank">Source Bank</string>
+    <string name="sbranch">Source Branch</string>
+    <string name="saccount">Source Account</string>
+    <string name="sname">Source Name</string>
+    <string name="dbank">Destination Bamk</string>
+    <string name="dbranch">Destination Branch</string>
+
+    <string name="daccount">Destination Account</string>
+    <string name="dname">Destination Name</string>
+    <string name="amount">Amount</string>
+
+    <string name="remark">Remark</string>
+
+    <string name="currency_code">Currency Code</string>
+
+
+
+
+</resources>
